@@ -8,3 +8,5 @@ Navigation Bar<br>
 <br>
 
 Screenshot<br>
+
+![alt text](https://github.com/ahmetmetinarslan/navigation-bar/blob/main/Navigation%20Bar/screenshot.png?raw=true)
