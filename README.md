@@ -5,6 +5,6 @@ Navigation Bar<br>
 -An aesthetic work has been done in the transitions between the menus.<br>
 
 <hr>
-<br><br>
+<br>
 
 Screenshot<br>
